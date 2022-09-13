@@ -16,5 +16,5 @@ ctrl+alt+t - atvert konsoli
 ctrl+x - iziet no faila
 nano - atvert kādu failu, peimēram txt failu
 ctrl f1-f7
-
+uname
 ![image](https://user-images.githubusercontent.com/112925770/188697924-cc685520-eb54-4008-a629-268bcae977d3.png)
