@@ -1,7 +1,8 @@
 #!/bin/bash
+
+history > history_`date +"%d-%m-%Y"`.txt
 git add .
 git config --global user.name Whymanki
 git config --global user.email danlok2401@gmail.com
-git commit -m "manki342"
+git commit -m "manki42"
 git push origin main
-
