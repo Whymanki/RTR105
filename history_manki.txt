@@ -7,3 +7,19 @@
     7  cd RTR105
     8  ls
     9  history >history_manki.txt
+   10  ls
+   11  nano manki-upload
+   12  ls
+   13  chmod 764 manki-upload
+   14  ls -l
+   15  pwd
+   16  /home/user/RTR105
+   17  /home/user/RTR105/manki-upload
+   18  nano manki-upload
+   19  /home/user/RTR105/manki-upload
+   20  pwd
+   21  cd
+   22  history >history_manki.txt
+   23  /home/user/RTR105/manki-upload
+   24  cd RTR105
+   25  history >history_manki.txt
