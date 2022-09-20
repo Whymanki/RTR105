@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  git clone https://github.com/Whymanki/RTR105
+    6  ls
+    7  cd RTR105
+    8  ls
+    9  history >history_manki.txt
