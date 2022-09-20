@@ -2,6 +2,6 @@
 git add .
 git config --global user.name Whymanki
 git config --global user.email danlok2401@gmail.com
-git commit -m "manki2"
+git commit -m "manki42"
 git push origin main
 
