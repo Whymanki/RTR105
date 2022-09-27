@@ -1,0 +1,98 @@
+  gay porn
+    4  firefox
+    5  git clone https://github.com/Whymanki/RTR105
+    6  ls -lt
+    7  ls
+    8  whereis ls
+    9  ls -l /bin/ls
+   10  echo $PATH
+   11  ls
+   12  pwd
+   13  ls -lt
+   14  cd RTR105
+   15  ls -lt
+   16  mkdir Class_06
+   17  ls -lt
+   18  cd Class_06
+   19  pwd
+   20  cat manki3
+   21  nano first.c
+   22  cat first.c
+   23  gcc first.c
+   24  gcc --help
+   25  cat first.c
+   26  ls -lt
+   27  echo $PATH
+   28  /home/user/RTR105/Class_06/a.out
+   29  -/RTR105/Class_06/a.out
+   30  ~/RTR105/Class_06/a.out
+   31  pwd
+   32  ./a.out
+   33  ../Class_06/a.out
+   34  ls -la
+   35  tree
+   36  pwd
+   37  ls -lt
+   38  gcc first.c
+   39  nano first.c
+   40  echo $?
+   41  a.out
+   42  echo $?
+   43  lss
+   44  echo $?
+   45  cp a.out /bin/
+   46  gcc first.c
+   47  nano first.c
+   48  ls -lt
+   49  gcc first.c
+   50  ls -lt
+   51  ./a.out
+   52  cat first.c
+   53  nano first.c
+   54  gcc first.c
+   55  cat first.c
+   56  ls -lt
+   57  ./a.out
+   58  echo $7
+   59  nano first.c
+   60  gcc first.c
+   61  echo $7
+   62  ./a.out
+   63  gcc first. c -o first.out
+   64  gcc first.c -o first.out
+   65  ls -lt
+   66  pwd
+   67  -lta
+   68  ls -lta
+   69  cd RTR105
+   70  ls -lta
+   71  cd /RTR105
+   72  man
+   73  man gcc
+   74  ls -ltah
+   75  ls
+   76  ls -lt
+   77  cd /RTR105
+   78  cd Class_06
+   79  echo $PATH
+   80  cd RTR105
+   81  echo $0
+   82  sh
+   83  ls -lta
+   84  pwd
+   85  cd /home/user/RTR105
+   86  ls -l
+   87  ls -lta
+   88  gcc first.c -S -o first.out
+   89  cd /home/user/RTR105/Class_06
+   90  gcc first.c -S -o first.out
+   91  gcc first.c -S -save-temps -o first.out
+   92  ls -lt
+   93  cat first.i
+   94  gcc first.c -save-temps -o first.out
+   95  cat first.i
+   96  ls -lt
+   97  cat first.s
+   98  cat first.o
+   99  cat first.c
+  100  hexdump -C first.c
