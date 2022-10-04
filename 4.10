@@ -24,3 +24,52 @@
    24  cat printf.i
    25  ~/RTR105/Class_07/a.out
    26  history
+1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  git clone https://github.com/Whymanki/RTR105
+    6  ls
+    7  cd RTR105
+    8  ls
+    9  nano 4.10
+   10  mkdir Class_08
+   11  cd Class_08
+   12  nano printf.c
+   13  gcc printf.c
+   14  gcc -o printf.c
+   15  gcc printf.c -o a.out
+   16  gcc printf.c -save-temps -o a.out
+   17  git add .
+   18  git config --global user.name Whymanki
+   19  git config --global user.email danlok2401@gmail.com
+   20  git commit -m "printf.c"
+   21  git push origin main
+   22  cat a.out
+   23  cat printf.i
+   24  ~/RTR105/Class_07/a.out
+   25  ~/RTR105/Class_08/a.out
+   26  cat printf.c
+   27  pwd
+   28  nano scanf.c
+   29  ls -lt
+   30  gcc scanf.c
+   31  gcc scanf.c -save-temps -o a.out
+   32  gcc scanf.c -S -o a.out
+   33  ls -lt
+   34  ~/RTR105/Class_07/a.out
+   35  ~/RTR105/Class_08/a.out
+   36  ls -lt
+   37  cat scanf.c
+   38  git push origin main
+   39  Whymanki
+   40  git push origin main
+   41  git add .
+   42  git config --global user.name Whymanki
+   43  git config --global user.email danlok2401@gmail.com
+   44  git push origin main
+   45  pwd
+   46  ls
+   47  nano scanf.o
+   48  nano scanf.c
+   49  history
