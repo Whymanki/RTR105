@@ -1,0 +1,31 @@
+printf("Now listen bastard, vvedi natural digit pozaluista: ");
+scanf("%hhd",&c);
+printf("Ti vvel this shit: %d/n",c);
+printf("Now listen bastard, vvedi natural digit pozaluista: ");
+scanf("%hhd",&c);
+printf("Ti vvel this shit: %d/n",c);
+
+#include<stdio.h>
+char dialogs(); //funkcijas deklaresana
+char dialogs_i(int i_dialogs_arg);
+void test1(int a,b,c);
+void test2(int a, double b);
+int main()
+{
+char cc =10;
+printf("Now listen bastard, vvedi natural digit pozaluista: ");
+scanf("%hhd",&c);
+printf("Ti vvel this shit: %d/n",c);
+
+printf("Now listen bastard, vvedi natural digit pozaluista: ");
+scanf("%hhd",&c);
+printf("Ti vvel this shit: %d/n",c);
+
+dialogs();
+return 0;
+}
+char dialogs()
+{
+return 0;
+}
+
