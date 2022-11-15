@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main(void)
+{
+FILE *fp;
+fp = fopen("./teksts.dat","wt");
+if (fp == NULL)
+{
+printf("Failu nav izdevies atvert.\n");
+return 100;
+}
+fprintf(fp, "Izvads faila\n");
+fprintf(fp,"Fails ir atvērts. Shis ir otrais ieraksts failā\n");
+double d = 1.8963644;
+fprintf(fp, "d mainīga vērtība: %.3f\n", d);
+fclose(fp);
+return 0;
+
+}
+
