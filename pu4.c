@@ -33,10 +33,10 @@ int main() {
     }
     else if(type=='i')
     {
-    i = 1;
     fac3 = 1;
     fac4 = 1;
     res2 = 1;
+    i = 1;
         while(i<=n)
             {   
                 fac3 = res2;
@@ -64,7 +64,7 @@ int main() {
             while(i<=n)
             {   
                 fac5 = res3;
-                res1 = res3 * i;
+                res3 = res3 * i;
                 fac6 = res3/i;
                 i+=1;
                 if(fac5==fac6)
