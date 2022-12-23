@@ -3,7 +3,7 @@ int main() {
     char type, fac1, fac2, res1;
     int i,n, fac3, fac4, res2;
     long long fac5, fac6, res3;
-    printf("Enter the data type to use(char(c) / int(i) / long long int(l)):\n");
+    printf("Enter the data type to use(char(c) / int(i) / long long(l)):\n");
     scanf("%c",&type);
     printf("Enter one natural number:\n");
     scanf("%d",&n);
