@@ -8,4 +8,4 @@ set title "Saknes"
 set title  font ",20" textcolor lt -1 norotate
 
 x0 = 0
-plot [-5:5] [-3:3] cos(x) lc rgb "dark-green", x0 lc rgb "pink"
+plot [-5:5] [-3:3] exp(x)-1 lc rgb "dark-green", x0 lc rgb "pink"
