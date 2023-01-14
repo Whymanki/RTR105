@@ -21,7 +21,7 @@
    funkca = cos(a);
   funkcb = cos(b);
 
- if(funkca * funkcb < 0)
+ if(funkca * funkcb > 0)
  {
 
       printf("Intervala [%.2f : %.2f] cos(x) ", a, b);
