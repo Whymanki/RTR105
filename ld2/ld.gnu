@@ -1,5 +1,5 @@
 set term png
-set output 'picture2.png'
+set output 'graph2.png'
 
 set key bmargin center horizontal Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
 set samples 400, 400
