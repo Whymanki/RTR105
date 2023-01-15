@@ -1,5 +1,5 @@
 set term png
-set out 'picture4.png'
+set out 'graph4.png'
 set key bmargin center horizontal Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
 set samples 400, 400
 set grid
