@@ -18,6 +18,11 @@ Ja pašreizējā frekvence ir vienāda ar maksimālo frekvenci, modeCount vērt�
 Ši metode ir ērta, nav tik gara un pat nosāka vairākas modas.
 Programmas beigās mēs izvadam visas vērtības uz ekrānu, un arī saglabam modu skaitu un vērtības atsevišķā failā, lai pēc tām ar gnuplot palidzību uzzīmētu histogramu.
 
-PALDIES PAR UZMANĪBU!!! LŪDZU, IELIECIET LABU ATZĪMI!!! ES NORMĀLI NEGULĒJU PEDEJĀS DIENĀS, BET VISU IZDARĪJU!!!
+![image](https://user-images.githubusercontent.com/112925770/212775325-ed5d6d96-ea63-4b8d-b8e6-605b218c1407.png)
+![image](https://user-images.githubusercontent.com/112925770/212775362-2055b5fe-98e1-44ff-979d-66520c8926c3.png)
+
+
+PALDIES PAR UZMANĪBU!!! LŪDZU, IELIECIET LABU ATZĪMI!!! Programmas ir ļoti labas un strādā!!!
 
 ![image](https://user-images.githubusercontent.com/112925770/212774427-0b0b32ec-db41-4055-b957-63fc42891e5b.png)
+
