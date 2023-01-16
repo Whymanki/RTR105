@@ -2,8 +2,8 @@
 #include <math.h>
 
 double f(double x) {
-    // Funkcija f(x)
-    return x*x;
+   
+    return cos(sqrt(x));
 }
 
 double rectangleRule(double a, double b, double h) {
