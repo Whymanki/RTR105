@@ -35,7 +35,11 @@ int main() {
 
     FILE *fp;
     fp = fopen("derivativess.dat", "w");
-
+if(fp == NULL)
+    {
+      printf("Error!");
+      return 1;
+    }
     double x;
     for (x = a; x <= b; x += precision) {
         double fx = f(x);
